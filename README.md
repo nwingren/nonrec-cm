@@ -1,6 +1,8 @@
-# Characteristic mode computations
+# Nonreciprocal characteristic mode computations
 
-This repository contains code for computing characteristic modes using the finite element-boundary integral code [FE2MS](https://github.com/nwingren/fe2ms). The algorithms for computing the modes based on the scattering dyadic are described in the papers
+This repository contains code for computing characteristic modes using the finite element-boundary integral code [FE2MS](https://github.com/nwingren/fe2ms). The code can specifically be used for computations involving nonreciprocal systems.
+
+The algorithms for computing the modes based on the scattering dyadic are described in the papers
 - J. Lundgren, K. Schab, M. Capek, M. Gustafsson and L. Jelinek, "Iterative Calculation of Characteristic Modes Using Arbitrary Full-Wave Solvers," in IEEE Antennas and Wireless Propagation Letters, vol. 22, no. 4, pp. 799-803, April 2023, doi: [10.1109/LAWP.2022.3225706](https://doi.org/10.1109/LAWP.2022.3225706).
 - M. Capek, J. Lundgren, M. Gustafsson, K. Schab and L. Jelinek, "Characteristic Mode Decomposition Using the Scattering Dyadic in Arbitrary Full-Wave Solvers," in IEEE Transactions on Antennas and Propagation, vol. 71, no. 1, pp. 830-839, Jan. 2023, doi: [10.1109/TAP.2022.3213945](https:/doi.org/10.1109/TAP.2022.3213945).
 
