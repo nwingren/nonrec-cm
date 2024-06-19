@@ -64,7 +64,7 @@ meshfactor = 0.08
 
 beta_a_values = [0.01] # [0, 0.005, 0.01] # Omega * a / c0
 
-savedir = 'modex_adaptive'
+savedir = 'modes_adaptive'
 savefile = (
     f'cm_rotcyl_bench__'
     f'{time.strftime("%y%m%d_%Hh%M", time.localtime())}'

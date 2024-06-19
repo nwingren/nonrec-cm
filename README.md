@@ -19,6 +19,8 @@ Some additional Python packages are necessary to run all provided scripts, and t
 mamba env update
 ```
 
+The provided scripts [rotating_cylinder.py](cm_code/rotating_cylinder.py), [rotating_cylinder_adaptive.py](cm_code/rotating_cylinder.py) and [farfields_explicit.py](cm_code/farfields_explicit.py) can then be run from within the directory [cm_code](cm_code).
+
 ## License
 
 Copyright (C) 2023 Niklas Wingren

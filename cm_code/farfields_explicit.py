@@ -43,7 +43,7 @@ n_leb = 302
 theta_leb, phi_leb, w_leb = get_lebedev(n_leb)
 
 # Files should exist with postfix __modes, __vecs, __plot_modsig, __plot_nonrec
-loaddir = '/mnt/c/Users/ni1863wi/Work Folders/Documents/NFFP-7/FE2MS/Figures/Characteristic modes'
+loaddir = 'modes_adaptive'
 loadfile = f'cm_rotcyl_bench__final__beta={beta_a}'
 
 tick = time.perf_counter()
